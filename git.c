@@ -11,7 +11,7 @@ void Git(int k);
 int main()
 {
     
-    Git(5);
+    Git(69);
     return 0;
 }
 void Git(int k)
