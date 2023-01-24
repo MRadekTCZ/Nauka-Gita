@@ -10,7 +10,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main()
 {
-    printf("Zaczynamy nauke Gita");
+    printf("Nauka Gita");
     
     return 0;
 }
