@@ -12,5 +12,5 @@ int main()
 {
     printf("gowno);
     
-    return 2;
+    return 3;
 }
